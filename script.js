@@ -54,11 +54,6 @@ function copiar() {
           alert("Texto copiado com sucesso!");
       })
     }
-function ativarDalek() {
-  document.getElementById("dalek").style.display = "block";
-  var dalekDiv = document.getElementById("dalek");
-  dalekDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  }
   
 
 
